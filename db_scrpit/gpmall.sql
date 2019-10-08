@@ -36,6 +36,7 @@ INSERT INTO `tb_address` VALUES ('3', '63', 'test', '18782059038', '四川省成
 INSERT INTO `tb_address` VALUES ('5', '63', 'admin', '18782059038', '上海青浦区汇联路', '0');
 INSERT INTO `tb_address` VALUES ('6', '62', 'Mic', '18073804421', '湖南省长沙市麓谷企业广场A3栋3单元407', '0');
 
+
 -- ----------------------------
 -- Table structure for tb_base
 -- ----------------------------
